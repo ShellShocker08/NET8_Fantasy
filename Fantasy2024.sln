@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34916.146
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fantasy.BackEnd", "Fantasy.BackEnd\Fantasy.BackEnd.csproj", "{21D66BAD-CF12-4E11-97A2-1D4600FA5A73}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fantasy.BackEnd", "Fantasy.BackEnd\Fantasy.BackEnd.csproj", "{21D66BAD-CF12-4E11-97A2-1D4600FA5A73}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fantasy.Blazor", "Fantasy.Blazor\Fantasy.Blazor.csproj", "{3E6A12AA-5055-4DB6-A74A-234A1B3E6D38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fantasy.Blazor", "Fantasy.Blazor\Fantasy.Blazor.csproj", "{3E6A12AA-5055-4DB6-A74A-234A1B3E6D38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fantasy.Common", "Fantasy.Common\Fantasy.Common.csproj", "{C79619A0-25C8-430B-93C7-D8E21E1A9F71}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fantasy.Common", "Fantasy.Common\Fantasy.Common.csproj", "{C79619A0-25C8-430B-93C7-D8E21E1A9F71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fantasy.Tests", "Fantasy.Tests\Fantasy.Tests.csproj", "{EE0D57EC-5F92-439C-8836-147473E9B7A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fantasy.Tests", "Fantasy.Tests\Fantasy.Tests.csproj", "{EE0D57EC-5F92-439C-8836-147473E9B7A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

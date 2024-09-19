@@ -1,6 +1,7 @@
-using Fantasy.Blazor;
-using Fantasy.Common.Services;
-using Microsoft.AspNetCore.Components.Web;
+global using Fantasy.Blazor;
+global using Fantasy.Common.Services;
+global using Fantasy.Common.Entities;
+global using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
 
 var builder = WebAssemblyHostBuilder.CreateDefault(args);
